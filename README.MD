@@ -5,18 +5,12 @@
 />
 </p>
 
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
+<div align="center">
 <img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
+    src="./assets/player.png"
+    width="300"
+/>
+</div>
 
 <p align="center">
     preview do podcast
@@ -29,71 +23,41 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Bootcamp Santander 2024 - Fundamentos de IA para Devs.
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Canva](https://www.canva.com/) - Para formatação de banners, Layouts e imagens
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
+
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Canva - Mídia Mágica AI Para gerar as imagens
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-## 📚 Materiais
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+## 📄 Prompts
+
+ChatGPT：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Crie 10 headlines para nomes de artigos sobre o assunto HTML: Boas práticas em acessibilidade |             
+| conteúdo | Comporte-se como um escritor de artigo tech Front-end e escreva um artigo com as regras abaixo: - O título do artigo é: "HTML e Acessibilidade: Como Criar Sites Inclusivos"; - O Subtítulo é: "Acessibilidade na Web: Guia Rápido para os 5 Fundamentos em HTML"; - Cada bloco terá de 2 a 3 parágrafos no máximo; - Cada parágrafo terá no máximo 5 linhas; - Deverá conter 1 parágrafo de introdução e 1 de conclusão; - Tenha um tom de voz informal; - O texto deve ser compreendível para pessoas com pouco conhecimento em programação; - O texto deve ser compreendível para programadores sem conhecimento em front-end; - Os blocos a serem criados são: "Estrutura Semântica", "Textos Alternativos", "Contraste de Cores", "Foco Visível", e "Legendas e Transcrições"; - Cada bloco deve conter um exemplo em forma de código; - Faça um call to action para as minhas redes sociais: Github e LinkedIn; - Coloque 3 hashtags que façam sentido.|
 
 
-## 🛠️ Instruções de execução
+Canva - Mídia Mágica AI：
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+|   Ação   | prompt                          |
+| :------: | --------------------------------|
+|  Imagem  | Retrato 4:4 extremamente detalhado de uma garota podcaster com cabelos castanhos usando um headset. |
