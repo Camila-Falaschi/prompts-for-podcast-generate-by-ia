@@ -6,7 +6,7 @@
 <audio id="podcast-audio" src="./output/ElevenLabs_acessibilidade_web.mp3"></audio>
 
 <p>Escute ao podcast ⬆️</p>
-[]
+[Escute ao podcast ⬆️](./output/ElevenLabs_acessibilidade_web.mp3)
 </div>
 
 <br />
