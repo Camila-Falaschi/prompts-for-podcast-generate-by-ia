@@ -1,8 +1,8 @@
 <div align="center">
 <img src="./assets/cover.png" width="300" />
 <h3>One Web - A saga da acessibilidade digital</h3>
-<img src="./assets/player.png" width="300" />
-<p>Escute ao podcast ⬆️</p>
+<a href="./output/Acessibilidade_web.mp3"><img src="./assets/player.png" width="300" /></a>
+<a href="./output/Acessibilidade_web.mp3">Escute ao podcast ⬆️</a>
 </div>
 
 <br />
@@ -23,15 +23,17 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - [Canva](https://www.canva.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
+- [Audacity](https://www.audacityteam.org/)
 
 <br />
 
 ## ✨ Como foi feito?
 
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Canva - Mídia Mágica AI Para gerar as imagens
-- Capcut para tratar aúdio e adicionar sons de fundo
+- ChatGPT - gerar o roteiro
+- Canva Mídia Mágica AI - gerar a imagem de capa
+- ElevenLabs - gerar o audio
+- Capcut - adicionar sons de fundo (download disponível apenas em mp4 - Vídeo)
+- Audacity - converter o vídeo em mp3
 
 <br />
 
