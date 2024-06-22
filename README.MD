@@ -2,6 +2,9 @@
 <img src="./assets/cover.png" width="300" />
 <h3>One Web - A saga da acessibilidade digital</h3>
 <img src="./assets/player.png" width="300" />
+
+<audio id="podcast-audio" src="output/ElevenLabs_acessibilidade_web.mp3"></audio>
+
 <p>Escute ao podcast ⬆️</p>
 </div>
 
